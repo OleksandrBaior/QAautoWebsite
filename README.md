@@ -1,4 +1,4 @@
-# PecodeQAtestTask
+# QAautoWebsite
 -------------------------------------------------
 1. git pull 
 2. npm install
